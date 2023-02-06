@@ -1,0 +1,23 @@
+1:  
+    What is the Feasibility Study of the SDLC model:
+        * A Feasibility Study is an evaluation of the potential impact of a proposed project or system, in terms of its technical, economic, and operational viability. This is one of the most important part of a project/product etc.
+    
+    Why is this important?
+    It helps to find or understand if a product/project if economical or technically possible / Feasibile. Also this help to find any potential risk or limitation.
+
+
+2:
+    Write 5 advantages of Agile methodology.
+    * Flexibility & Adaptability
+    * Joint Approach
+    * Fast Marketing
+    * Easy for Improvement things
+    * If all goes well we'll have "Customer Satisfaction"
+
+3: 
+    Write short notes on SDLC model phase.
+        * System Development Life Cycle (SDLC) is a systematic process. In short it has * Colecting Requirements & Research   
+        * Design: Design the product / project while keeping other phases in mind
+        * Implementation
+        * Testing/Debugging
+        * Deployment & lastly Maintenance.
