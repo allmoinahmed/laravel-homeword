@@ -8,3 +8,11 @@ function check_even_odd($number) {
 }
 
 echo check_even_odd(13);
+
+// SUM Function...
+$sum = 0;
+for ($i = 1; $i <= 100; $i++) {
+    $sum += $i;
+}
+echo "Sum of the series 1 + 2 + 3 + ..... + 100 is: " . $sum;
+?>
