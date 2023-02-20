@@ -57,10 +57,6 @@ print_r($trimmedArray);
 * 4: Write a PHP function to check if a string contains
 * only letters and whitespace.
 */
-function contains_only_letters_and_whitespace(string $str): bool {
-    return preg_match('/^[a-zA-Z\s]+$/', $str) === 1;
-}
-
 function onlyLettersAndWhitespace(string $str): bool {
     return preg_match('/^[a-zA-Z\s]+$/', $str) === 1;
 }
