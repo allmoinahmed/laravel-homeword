@@ -66,35 +66,7 @@ $obj->setEmail('moinrrahmed@gmail.com'); // Setting Email by SetEmail Method
 // Showing Name, Email Information by getName & getEmail Method 
 echo "Your Name Is: ".$obj->getName()."\n";
 echo "Email Address Is: ".$obj->getEmail();
-?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Information PHP Form</title>
-</head>
-<body>
-<div class="userForm">
-    <div class="formContent">
-        <h1>PHP User Information Form</h1>
-        <form method="POST">
-            <label for="name">
-                <span>Name:</span>
-                <input type="text" id="name" name="name">
-            </label>
-            <label for="email">
-                <span>Email:</span>
-                <input type="email" id="email" name="email">
-            </label>
-            <input type="submit" value="Submit">
-        </form>        
-    </div>
-</div>
-</body>
-</html>
 
 
 
