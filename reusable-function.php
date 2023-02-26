@@ -16,3 +16,4 @@ for ($i = 1; $i <= 100; $i++) {
 }
 echo "Sum of the series 1 + 2 + 3 + ..... + 100 is: " . $sum;
 ?>
+ 
