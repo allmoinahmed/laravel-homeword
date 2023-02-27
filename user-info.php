@@ -1,5 +1,10 @@
 <?php
-
+/*
+*
+* Task 3: Superglobal Variables in PHP
+* PHP script that retrieves the user's name and email from the HTML form
+*
+*/
 class Person{
     public $name;
     public $email;
